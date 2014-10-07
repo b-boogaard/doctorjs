@@ -27,6 +27,12 @@ Requirements
 
 Building
 --------
+
+As per this issue: https://github.com/mozilla/doctorjs/issues/55<br/>
+Run the following to install doctorjs:
+
+* `git clone https://github.com/mozilla/doctorjs.git && cd doctorjs &&  git submodule update --init --recursive`
+
 To install:
 
 * `make install`
