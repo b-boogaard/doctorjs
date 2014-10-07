@@ -29,7 +29,7 @@ Building
 --------
 
 As per this issue: https://github.com/mozilla/doctorjs/issues/55<br/>
-Run the following to install doctorjs:
+Do the following when cloning this repository:
 
 * `git clone https://github.com/mozilla/doctorjs.git && cd doctorjs &&  git submodule update --init --recursive`
 
